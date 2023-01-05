@@ -1,0 +1,72 @@
+Q1 
+Q1. (iii) Variance of Laplace distribution is 8.00021673931483 
+Q1. (iii) Variance of Gumbel distribution is 6.579639749295189 
+ Variance of Cauchy distribution when infinity=1000 is 635.6204589234798.
+ Variance of Cauchy distribution when infinity=10000 is 6365.197792337225.
+ Variance of Cauchy distribution when infinity=100000 is 63660.97724355885.
+Thus variance tends to infinity 
+
+ Q2 
+
+
+Estimated P(Z=0) is 0.00095, actual is 0.00091 
+Estimated P(Z=1) is 0.00666, actual is 0.00638 
+Estimated P(Z=2) is 0.02341, actual is 0.02234 
+Estimated P(Z=3) is 0.05432, actual is 0.05213 
+Estimated P(Z=4) is 0.09487, actual is 0.09123 
+Estimated P(Z=5) is 0.13279, actual is 0.12772 
+Estimated P(Z=6) is 0.15468, actual is 0.14900 
+Estimated P(Z=7) is 0.15419, actual is 0.14900 
+Estimated P(Z=8) is 0.13599, actual is 0.13038 
+Estimated P(Z=9) is 0.10551, actual is 0.10140 
+Estimated P(Z=10) is 0.07415, actual is 0.07098 
+Estimated P(Z=11) is 0.04716, actual is 0.04517 
+Estimated P(Z=12) is 0.02728, actual is 0.02635 
+Estimated P(Z=13) is 0.01477, actual is 0.01419 
+Estimated P(Z=14) is 0.00738, actual is 0.00709 
+Estimated P(Z=15) is 0.00341, actual is 0.00331 
+Estimated P(Z=16) is 0.00149, actual is 0.00145 
+Estimated P(Z=17) is 0.00062, actual is 0.00060 
+Estimated P(Z=18) is 0.00026, actual is 0.00023 
+Estimated P(Z=19) is 0.00008, actual is 0.00009 
+Estimated P(Z=20) is 0.00002, actual is 0.00003 
+Estimated P(Z=21) is 0.00001, actual is 0.00001 
+Estimated P(Z=22) is 0.00000, actual is 0.00000 
+Estimated P(Z=23) is 0.00000, actual is 0.00000 
+Estimated P(Z=24) is 0.00000, actual is 0.00000 
+Estimated P(Z=25) is 0.00000, actual is 0.00000 
+
+ For thinned RV Z 
+Estimated P(Z=0) is 0.0415, actual is 0.04076 
+Estimated P(Z=1) is 0.13105, actual is 0.13044 
+Estimated P(Z=2) is 0.20846, actual is 0.20870 
+Estimated P(Z=3) is 0.222, actual is 0.22262 
+Estimated P(Z=4) is 0.17839, actual is 0.17809 
+Estimated P(Z=5) is 0.11328, actual is 0.11398 
+Estimated P(Z=6) is 0.06148, actual is 0.06079 
+Estimated P(Z=7) is 0.02711, actual is 0.02779 
+Estimated P(Z=8) is 0.01133, actual is 0.01112 
+Estimated P(Z=9) is 0.00389, actual is 0.00395 
+Estimated P(Z=10) is 0.00106, actual is 0.00126 
+Estimated P(Z=11) is 0.00034, actual is 0.00037 
+Estimated P(Z=12) is 8e-05, actual is 0.00010 
+Estimated P(Z=13) is 2e-05, actual is 0.00002 
+Estimated P(Z=14) is 1e-05, actual is 0.00001 
+Estimated P(Z=15) is 0.0, actual is 0.00000 
+Estimated P(Z=16) is 0.0, actual is 0.00000 
+Estimated P(Z=17) is 0.0, actual is 0.00000 
+Estimated P(Z=18) is 0.0, actual is 0.00000 
+Estimated P(Z=19) is 0.0, actual is 0.00000 
+Estimated P(Z=20) is 0.0, actual is 0.00000 
+Estimated P(Z=21) is 0.0, actual is 0.00000 
+Estimated P(Z=22) is 0.0, actual is 0.00000 
+Estimated P(Z=23) is 0.0, actual is 0.00000 
+Estimated P(Z=24) is 0.0, actual is 0.00000 
+Estimated P(Z=25) is 0.0, actual is 0.00000 
+
+ Q3 
+Random Walkers Final Position Mean: -0.0006; Variance: 0.0010
+True Mean: -0.0000; True Variance: 0.0010
+Error in Mean: 0.0006
+ Error in Variance: 0.0000
+
